@@ -1,5 +1,5 @@
 use bytes::BytesMut;
-use smol_str_02::SmolStr;
+use smol_str_03::SmolStr;
 use std::error::Error;
 
 use crate::{FromSql, IsNull, ToSql, Type};
